@@ -7,4 +7,4 @@ Project for the subject of the Machine Learning.
 Decision tree, Linear Regression, Logistic Regression
 Prediction of count (cnt) - number of total rentals
 Linear Regression with Stochastic Gradient Descent
-Print the loss function over epochs and Print loss with respect to $y-\hat{y}$
+Print the loss function over epochs and Print loss with respect to y-y'
