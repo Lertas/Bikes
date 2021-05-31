@@ -4,8 +4,8 @@
 
 Msc in Data Science , Dimokritos 
 
-Project for the subject of the Machine Learning. 
-Decision tree, Linear Regression, Logistic Regression
-Prediction of count (cnt) - number of total rentals
-Linear Regression with Stochastic Gradient Descent
-Print the loss function over epochs and Print loss with respect to y-y'
+Project on the subject of Machine Learning. 
+Prediction of count (cnt) - number of total rentals. 
+Decision prediction. 
+Linear Regression with Stochastic Gradient Descent and print the loss function over epochs and print loss with respect to y-y'. 
+Logistic Regression prediction and print loss with respect to y-y'. 
