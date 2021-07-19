@@ -2,7 +2,7 @@
 
 "This project is licensed under the terms of the MIT license."
 
-Msc in Data Science 2020-21, NCSR 'Demokritos'. Machine Learning course. 
+Msc in Data Science 2020-21, NCSR 'Demokritos'. Machine Learning course. 1st Semester.
 
 Project on the subject of Machine Learning. 
 Prediction of count (cnt) - number of total rentals. 
